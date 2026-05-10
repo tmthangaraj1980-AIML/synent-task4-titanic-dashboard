@@ -71,18 +71,15 @@ Run Streamlit app:
 streamlit run app.py
 ```
 
----
-
-## 📊 Dashboard Preview
-
-(Add screenshot here after GitHub upload)
 
 ---
 
 ## 🌐 Deployment
 
 The dashboard can be deployed using Streamlit Community Cloud.
+## 🌐 Live Demo
 
+👉 https://synent-task4-titanic-dashboard-hs7ipbshsyvdwd8gamqb4q.streamlit.app/
 ---
 
 ## 👨‍💻 Author
